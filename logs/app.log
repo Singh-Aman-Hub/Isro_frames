@@ -1,0 +1,453 @@
+[2026-06-29T19:18:09.258Z] [job_2026_06_29_759ed1f0] Job created
+[2026-06-29T19:18:09.260Z] [job_2026_06_29_759ed1f0] Saving Frame A: frame_A_T0000.png (573827 bytes)
+[2026-06-29T19:18:09.264Z] [job_2026_06_29_759ed1f0] Saving Frame B: frame_B_T0020.png (572505 bytes)
+[2026-06-29T19:18:09.266Z] [job_2026_06_29_759ed1f0] Saving Ground Truth: ground_truth_mid_T0010.png
+[2026-06-29T19:18:09.270Z] [job_2026_06_29_759ed1f0] Upload complete. Job ready for generation.
+[2026-06-29T19:18:11.696Z] [job_2026_06_29_759ed1f0] → Initializing job
+[2026-06-29T19:18:11.703Z] [job_2026_06_29_759ed1f0] → Initializing job
+[2026-06-29T19:18:11.898Z] [job_2026_06_29_759ed1f0] Job job_2026_06_29_759ed1f0 initialized
+[2026-06-29T19:18:11.899Z] [job_2026_06_29_759ed1f0] ✓ Initializing job
+[2026-06-29T19:18:11.900Z] [job_2026_06_29_759ed1f0] → Validating uploaded frames
+[2026-06-29T19:18:11.903Z] [job_2026_06_29_759ed1f0] Job job_2026_06_29_759ed1f0 initialized
+[2026-06-29T19:18:11.905Z] [job_2026_06_29_759ed1f0] ✓ Initializing job
+[2026-06-29T19:18:11.906Z] [job_2026_06_29_759ed1f0] → Validating uploaded frames
+[2026-06-29T19:18:12.051Z] [job_2026_06_29_759ed1f0] Frame A and Frame B validated
+[2026-06-29T19:18:12.052Z] [job_2026_06_29_759ed1f0] ✓ Validating uploaded frames
+[2026-06-29T19:18:12.052Z] [job_2026_06_29_759ed1f0] → Preprocessing images
+[2026-06-29T19:18:12.052Z] [job_2026_06_29_759ed1f0] Preprocessing Frame A via sharp...
+[2026-06-29T19:18:12.057Z] [job_2026_06_29_759ed1f0] Frame A and Frame B validated
+[2026-06-29T19:18:12.058Z] [job_2026_06_29_759ed1f0] ✓ Validating uploaded frames
+[2026-06-29T19:18:12.058Z] [job_2026_06_29_759ed1f0] → Preprocessing images
+[2026-06-29T19:18:12.059Z] [job_2026_06_29_759ed1f0] Preprocessing Frame A via sharp...
+[2026-06-29T19:18:12.124Z] [job_2026_06_29_759ed1f0] Frame A: 1024×1024 PNG
+[2026-06-29T19:18:12.124Z] [job_2026_06_29_759ed1f0] Preprocessing Frame B via sharp...
+[2026-06-29T19:18:12.125Z] [job_2026_06_29_759ed1f0] Frame A: 1024×1024 PNG
+[2026-06-29T19:18:12.126Z] [job_2026_06_29_759ed1f0] Preprocessing Frame B via sharp...
+[2026-06-29T19:18:12.192Z] [job_2026_06_29_759ed1f0] Frame B: 1024×1024 PNG
+[2026-06-29T19:18:12.193Z] [job_2026_06_29_759ed1f0] ✓ Preprocessing images
+[2026-06-29T19:18:12.193Z] [job_2026_06_29_759ed1f0] → Analyzing spatial consistency
+[2026-06-29T19:18:12.194Z] [job_2026_06_29_759ed1f0] Frame B: 1024×1024 PNG
+[2026-06-29T19:18:12.194Z] [job_2026_06_29_759ed1f0] ✓ Preprocessing images
+[2026-06-29T19:18:12.194Z] [job_2026_06_29_759ed1f0] → Analyzing spatial consistency
+[2026-06-29T19:18:12.494Z] [job_2026_06_29_759ed1f0] Spatial dimensions match: YES
+[2026-06-29T19:18:12.494Z] [job_2026_06_29_759ed1f0] Geospatial alignment check: PASSED
+[2026-06-29T19:18:12.495Z] [job_2026_06_29_759ed1f0] ✓ Analyzing spatial consistency
+[2026-06-29T19:18:12.496Z] [job_2026_06_29_759ed1f0] → Performing temporal alignment
+[2026-06-29T19:18:12.499Z] [job_2026_06_29_759ed1f0] Spatial dimensions match: YES
+[2026-06-29T19:18:12.500Z] [job_2026_06_29_759ed1f0] Geospatial alignment check: PASSED
+[2026-06-29T19:18:12.502Z] [job_2026_06_29_759ed1f0] ✓ Analyzing spatial consistency
+[2026-06-29T19:18:12.503Z] [job_2026_06_29_759ed1f0] → Performing temporal alignment
+[2026-06-29T19:18:12.749Z] [job_2026_06_29_759ed1f0] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:18:12.750Z] [job_2026_06_29_759ed1f0] Computed Tmid = 00:10 UTC
+[2026-06-29T19:18:12.751Z] [job_2026_06_29_759ed1f0] ✓ Performing temporal alignment
+[2026-06-29T19:18:12.751Z] [job_2026_06_29_759ed1f0] → Estimating optical flow vectors
+[2026-06-29T19:18:12.755Z] [job_2026_06_29_759ed1f0] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:18:12.756Z] [job_2026_06_29_759ed1f0] Computed Tmid = 00:10 UTC
+[2026-06-29T19:18:12.758Z] [job_2026_06_29_759ed1f0] ✓ Performing temporal alignment
+[2026-06-29T19:18:12.758Z] [job_2026_06_29_759ed1f0] → Estimating optical flow vectors
+[2026-06-29T19:18:13.152Z] [job_2026_06_29_759ed1f0] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:18:13.153Z] [job_2026_06_29_759ed1f0] Temporal motion vectors: computed internally
+[2026-06-29T19:18:13.155Z] [job_2026_06_29_759ed1f0] ✓ Estimating optical flow vectors
+[2026-06-29T19:18:13.156Z] [job_2026_06_29_759ed1f0] → Constructing interpolation prompt
+[2026-06-29T19:18:13.158Z] [job_2026_06_29_759ed1f0] Prompt length: 1473 chars
+[2026-06-29T19:18:13.159Z] [job_2026_06_29_759ed1f0] Image type: auto
+[2026-06-29T19:18:13.161Z] [job_2026_06_29_759ed1f0] ✓ Constructing interpolation prompt
+[2026-06-29T19:18:13.162Z] [job_2026_06_29_759ed1f0] → Dispatching to inference engine
+[2026-06-29T19:18:13.163Z] [job_2026_06_29_759ed1f0] Encoding frames as base64...
+[2026-06-29T19:18:13.164Z] [job_2026_06_29_759ed1f0] Dispatching to gemini-2.5-flash-preview-05-20...
+[2026-06-29T19:18:13.165Z] [job_2026_06_29_759ed1f0] ✓ Dispatching to inference engine
+[2026-06-29T19:18:13.166Z] [job_2026_06_29_759ed1f0] → Generating midpoint frame
+[2026-06-29T19:18:13.166Z] [job_2026_06_29_759ed1f0] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:18:13.206Z] [job_2026_06_29_759ed1f0] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:18:13.207Z] [job_2026_06_29_759ed1f0] Temporal motion vectors: computed internally
+[2026-06-29T19:18:13.207Z] [job_2026_06_29_759ed1f0] ✓ Estimating optical flow vectors
+[2026-06-29T19:18:13.207Z] [job_2026_06_29_759ed1f0] → Constructing interpolation prompt
+[2026-06-29T19:18:13.207Z] [job_2026_06_29_759ed1f0] Prompt length: 1473 chars
+[2026-06-29T19:18:13.208Z] [job_2026_06_29_759ed1f0] Image type: auto
+[2026-06-29T19:18:13.208Z] [job_2026_06_29_759ed1f0] ✓ Constructing interpolation prompt
+[2026-06-29T19:18:13.209Z] [job_2026_06_29_759ed1f0] → Dispatching to inference engine
+[2026-06-29T19:18:13.209Z] [job_2026_06_29_759ed1f0] Encoding frames as base64...
+[2026-06-29T19:18:13.209Z] [job_2026_06_29_759ed1f0] Dispatching to gemini-2.5-flash-preview-05-20...
+[2026-06-29T19:18:13.210Z] [job_2026_06_29_759ed1f0] ✓ Dispatching to inference engine
+[2026-06-29T19:18:13.210Z] [job_2026_06_29_759ed1f0] → Generating midpoint frame
+[2026-06-29T19:18:13.211Z] [job_2026_06_29_759ed1f0] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:18:14.171Z] [job_2026_06_29_759ed1f0] Retry 1/2: {"error":{"code":404,"message":"models/gemini-2.5-flash-preview-05-20 is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.","status":"NOT_FOUND"}}
+[2026-06-29T19:18:14.289Z] [job_2026_06_29_759ed1f0] Retry 1/2: {"error":{"code":404,"message":"models/gemini-2.5-flash-preview-05-20 is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.","status":"NOT_FOUND"}}
+[2026-06-29T19:18:16.715Z] [job_2026_06_29_759ed1f0] ERROR: {"error":{"code":404,"message":"models/gemini-2.5-flash-preview-05-20 is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.","status":"NOT_FOUND"}}
+[2026-06-29T19:18:16.922Z] [job_2026_06_29_759ed1f0] ERROR: {"error":{"code":404,"message":"models/gemini-2.5-flash-preview-05-20 is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.","status":"NOT_FOUND"}}
+[2026-06-29T19:23:18.486Z] [job_2026_06_29_259448a4] Job created
+[2026-06-29T19:23:18.488Z] [job_2026_06_29_259448a4] Saving Frame A: frame_A_T0000.png (573827 bytes)
+[2026-06-29T19:23:18.491Z] [job_2026_06_29_259448a4] Saving Frame B: frame_B_T0020.png (572505 bytes)
+[2026-06-29T19:23:18.494Z] [job_2026_06_29_259448a4] Saving Ground Truth: ground_truth_mid_T0010.png
+[2026-06-29T19:23:18.498Z] [job_2026_06_29_259448a4] Upload complete. Job ready for generation.
+[2026-06-29T19:23:18.601Z] [job_2026_06_29_259448a4] → Initializing job
+[2026-06-29T19:23:18.623Z] [job_2026_06_29_259448a4] → Initializing job
+[2026-06-29T19:23:18.804Z] [job_2026_06_29_259448a4] Job job_2026_06_29_259448a4 initialized
+[2026-06-29T19:23:18.805Z] [job_2026_06_29_259448a4] ✓ Initializing job
+[2026-06-29T19:23:18.805Z] [job_2026_06_29_259448a4] → Validating uploaded frames
+[2026-06-29T19:23:18.826Z] [job_2026_06_29_259448a4] Job job_2026_06_29_259448a4 initialized
+[2026-06-29T19:23:18.826Z] [job_2026_06_29_259448a4] ✓ Initializing job
+[2026-06-29T19:23:18.827Z] [job_2026_06_29_259448a4] → Validating uploaded frames
+[2026-06-29T19:23:18.957Z] [job_2026_06_29_259448a4] Frame A and Frame B validated
+[2026-06-29T19:23:18.958Z] [job_2026_06_29_259448a4] ✓ Validating uploaded frames
+[2026-06-29T19:23:18.958Z] [job_2026_06_29_259448a4] → Preprocessing images
+[2026-06-29T19:23:18.958Z] [job_2026_06_29_259448a4] Preprocessing Frame A via sharp...
+[2026-06-29T19:23:18.978Z] [job_2026_06_29_259448a4] Frame A and Frame B validated
+[2026-06-29T19:23:18.979Z] [job_2026_06_29_259448a4] ✓ Validating uploaded frames
+[2026-06-29T19:23:18.980Z] [job_2026_06_29_259448a4] → Preprocessing images
+[2026-06-29T19:23:18.982Z] [job_2026_06_29_259448a4] Preprocessing Frame A via sharp...
+[2026-06-29T19:23:19.079Z] [job_2026_06_29_259448a4] Frame A: 1024×1024 PNG
+[2026-06-29T19:23:19.081Z] [job_2026_06_29_259448a4] Preprocessing Frame B via sharp...
+[2026-06-29T19:23:19.085Z] [job_2026_06_29_259448a4] Frame A: 1024×1024 PNG
+[2026-06-29T19:23:19.086Z] [job_2026_06_29_259448a4] Preprocessing Frame B via sharp...
+[2026-06-29T19:23:19.323Z] [job_2026_06_29_259448a4] Frame B: 1024×1024 PNG
+[2026-06-29T19:23:19.325Z] [job_2026_06_29_259448a4] ✓ Preprocessing images
+[2026-06-29T19:23:19.327Z] [job_2026_06_29_259448a4] → Analyzing spatial consistency
+[2026-06-29T19:23:19.348Z] [job_2026_06_29_259448a4] Frame B: 1024×1024 PNG
+[2026-06-29T19:23:19.350Z] [job_2026_06_29_259448a4] ✓ Preprocessing images
+[2026-06-29T19:23:19.354Z] [job_2026_06_29_259448a4] → Analyzing spatial consistency
+[2026-06-29T19:23:19.630Z] [job_2026_06_29_259448a4] Spatial dimensions match: YES
+[2026-06-29T19:23:19.631Z] [job_2026_06_29_259448a4] Geospatial alignment check: PASSED
+[2026-06-29T19:23:19.631Z] [job_2026_06_29_259448a4] ✓ Analyzing spatial consistency
+[2026-06-29T19:23:19.632Z] [job_2026_06_29_259448a4] → Performing temporal alignment
+[2026-06-29T19:23:19.656Z] [job_2026_06_29_259448a4] Spatial dimensions match: YES
+[2026-06-29T19:23:19.656Z] [job_2026_06_29_259448a4] Geospatial alignment check: PASSED
+[2026-06-29T19:23:19.657Z] [job_2026_06_29_259448a4] ✓ Analyzing spatial consistency
+[2026-06-29T19:23:19.657Z] [job_2026_06_29_259448a4] → Performing temporal alignment
+[2026-06-29T19:23:19.884Z] [job_2026_06_29_259448a4] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:23:19.885Z] [job_2026_06_29_259448a4] Computed Tmid = 00:10 UTC
+[2026-06-29T19:23:19.886Z] [job_2026_06_29_259448a4] ✓ Performing temporal alignment
+[2026-06-29T19:23:19.886Z] [job_2026_06_29_259448a4] → Estimating optical flow vectors
+[2026-06-29T19:23:19.909Z] [job_2026_06_29_259448a4] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:23:19.910Z] [job_2026_06_29_259448a4] Computed Tmid = 00:10 UTC
+[2026-06-29T19:23:19.911Z] [job_2026_06_29_259448a4] ✓ Performing temporal alignment
+[2026-06-29T19:23:19.911Z] [job_2026_06_29_259448a4] → Estimating optical flow vectors
+[2026-06-29T19:23:20.289Z] [job_2026_06_29_259448a4] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:23:20.290Z] [job_2026_06_29_259448a4] Temporal motion vectors: computed internally
+[2026-06-29T19:23:20.292Z] [job_2026_06_29_259448a4] ✓ Estimating optical flow vectors
+[2026-06-29T19:23:20.293Z] [job_2026_06_29_259448a4] → Constructing interpolation prompt
+[2026-06-29T19:23:20.293Z] [job_2026_06_29_259448a4] Prompt length: 1473 chars
+[2026-06-29T19:23:20.295Z] [job_2026_06_29_259448a4] Image type: auto
+[2026-06-29T19:23:20.296Z] [job_2026_06_29_259448a4] ✓ Constructing interpolation prompt
+[2026-06-29T19:23:20.298Z] [job_2026_06_29_259448a4] → Dispatching to inference engine
+[2026-06-29T19:23:20.299Z] [job_2026_06_29_259448a4] Encoding frames as base64...
+[2026-06-29T19:23:20.300Z] [job_2026_06_29_259448a4] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:23:20.301Z] [job_2026_06_29_259448a4] ✓ Dispatching to inference engine
+[2026-06-29T19:23:20.302Z] [job_2026_06_29_259448a4] → Generating midpoint frame
+[2026-06-29T19:23:20.303Z] [job_2026_06_29_259448a4] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:23:20.350Z] [job_2026_06_29_259448a4] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:23:20.353Z] [job_2026_06_29_259448a4] Temporal motion vectors: computed internally
+[2026-06-29T19:23:20.354Z] [job_2026_06_29_259448a4] ✓ Estimating optical flow vectors
+[2026-06-29T19:23:20.354Z] [job_2026_06_29_259448a4] → Constructing interpolation prompt
+[2026-06-29T19:23:20.355Z] [job_2026_06_29_259448a4] Prompt length: 1473 chars
+[2026-06-29T19:23:20.355Z] [job_2026_06_29_259448a4] Image type: auto
+[2026-06-29T19:23:20.356Z] [job_2026_06_29_259448a4] ✓ Constructing interpolation prompt
+[2026-06-29T19:23:20.356Z] [job_2026_06_29_259448a4] → Dispatching to inference engine
+[2026-06-29T19:23:20.356Z] [job_2026_06_29_259448a4] Encoding frames as base64...
+[2026-06-29T19:23:20.357Z] [job_2026_06_29_259448a4] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:23:20.358Z] [job_2026_06_29_259448a4] ✓ Dispatching to inference engine
+[2026-06-29T19:23:20.358Z] [job_2026_06_29_259448a4] → Generating midpoint frame
+[2026-06-29T19:23:20.358Z] [job_2026_06_29_259448a4] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:23:32.355Z] [job_2026_06_29_259448a4] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 27.666230185s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"27s"}]}}
+[2026-06-29T19:23:32.695Z] [job_2026_06_29_259448a4] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 27.395315161s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"27s"}]}}
+[2026-06-29T19:23:45.714Z] [job_2026_06_29_259448a4] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 14.310326354s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"14s"}]}}
+[2026-06-29T19:23:47.015Z] [job_2026_06_29_259448a4] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 13.098231368s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"13s"}]}}
+[2026-06-29T19:26:57.734Z] [job_2026_06_29_0b9abbc3] Job created
+[2026-06-29T19:26:57.735Z] [job_2026_06_29_0b9abbc3] Saving Frame A: frame_A_T0000.png (573827 bytes)
+[2026-06-29T19:26:57.737Z] [job_2026_06_29_0b9abbc3] Saving Frame B: frame_B_T0020.png (572505 bytes)
+[2026-06-29T19:26:57.739Z] [job_2026_06_29_0b9abbc3] Upload complete. Job ready for generation.
+[2026-06-29T19:26:57.947Z] [job_2026_06_29_0b9abbc3] → Initializing job
+[2026-06-29T19:26:57.961Z] [job_2026_06_29_0b9abbc3] → Initializing job
+[2026-06-29T19:26:58.150Z] [job_2026_06_29_0b9abbc3] Job job_2026_06_29_0b9abbc3 initialized
+[2026-06-29T19:26:58.151Z] [job_2026_06_29_0b9abbc3] ✓ Initializing job
+[2026-06-29T19:26:58.152Z] [job_2026_06_29_0b9abbc3] → Validating uploaded frames
+[2026-06-29T19:26:58.164Z] [job_2026_06_29_0b9abbc3] Job job_2026_06_29_0b9abbc3 initialized
+[2026-06-29T19:26:58.165Z] [job_2026_06_29_0b9abbc3] ✓ Initializing job
+[2026-06-29T19:26:58.165Z] [job_2026_06_29_0b9abbc3] → Validating uploaded frames
+[2026-06-29T19:26:58.305Z] [job_2026_06_29_0b9abbc3] Frame A and Frame B validated
+[2026-06-29T19:26:58.306Z] [job_2026_06_29_0b9abbc3] ✓ Validating uploaded frames
+[2026-06-29T19:26:58.307Z] [job_2026_06_29_0b9abbc3] → Preprocessing images
+[2026-06-29T19:26:58.307Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame A via sharp...
+[2026-06-29T19:26:58.317Z] [job_2026_06_29_0b9abbc3] Frame A and Frame B validated
+[2026-06-29T19:26:58.319Z] [job_2026_06_29_0b9abbc3] ✓ Validating uploaded frames
+[2026-06-29T19:26:58.321Z] [job_2026_06_29_0b9abbc3] → Preprocessing images
+[2026-06-29T19:26:58.321Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame A via sharp...
+[2026-06-29T19:26:58.444Z] [job_2026_06_29_0b9abbc3] Frame A: 1024×1024 PNG
+[2026-06-29T19:26:58.446Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame B via sharp...
+[2026-06-29T19:26:58.447Z] [job_2026_06_29_0b9abbc3] Frame A: 1024×1024 PNG
+[2026-06-29T19:26:58.448Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame B via sharp...
+[2026-06-29T19:26:58.573Z] [job_2026_06_29_0b9abbc3] Frame B: 1024×1024 PNG
+[2026-06-29T19:26:58.573Z] [job_2026_06_29_0b9abbc3] ✓ Preprocessing images
+[2026-06-29T19:26:58.574Z] [job_2026_06_29_0b9abbc3] → Analyzing spatial consistency
+[2026-06-29T19:26:58.575Z] [job_2026_06_29_0b9abbc3] Frame B: 1024×1024 PNG
+[2026-06-29T19:26:58.575Z] [job_2026_06_29_0b9abbc3] ✓ Preprocessing images
+[2026-06-29T19:26:58.576Z] [job_2026_06_29_0b9abbc3] → Analyzing spatial consistency
+[2026-06-29T19:26:58.876Z] [job_2026_06_29_0b9abbc3] Spatial dimensions match: YES
+[2026-06-29T19:26:58.877Z] [job_2026_06_29_0b9abbc3] Geospatial alignment check: PASSED
+[2026-06-29T19:26:58.878Z] [job_2026_06_29_0b9abbc3] ✓ Analyzing spatial consistency
+[2026-06-29T19:26:58.879Z] [job_2026_06_29_0b9abbc3] → Performing temporal alignment
+[2026-06-29T19:26:58.881Z] [job_2026_06_29_0b9abbc3] Spatial dimensions match: YES
+[2026-06-29T19:26:58.882Z] [job_2026_06_29_0b9abbc3] Geospatial alignment check: PASSED
+[2026-06-29T19:26:58.883Z] [job_2026_06_29_0b9abbc3] ✓ Analyzing spatial consistency
+[2026-06-29T19:26:58.884Z] [job_2026_06_29_0b9abbc3] → Performing temporal alignment
+[2026-06-29T19:26:59.132Z] [job_2026_06_29_0b9abbc3] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:26:59.132Z] [job_2026_06_29_0b9abbc3] Computed Tmid = 00:10 UTC
+[2026-06-29T19:26:59.133Z] [job_2026_06_29_0b9abbc3] ✓ Performing temporal alignment
+[2026-06-29T19:26:59.134Z] [job_2026_06_29_0b9abbc3] → Estimating optical flow vectors
+[2026-06-29T19:26:59.136Z] [job_2026_06_29_0b9abbc3] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:26:59.136Z] [job_2026_06_29_0b9abbc3] Computed Tmid = 00:10 UTC
+[2026-06-29T19:26:59.138Z] [job_2026_06_29_0b9abbc3] ✓ Performing temporal alignment
+[2026-06-29T19:26:59.139Z] [job_2026_06_29_0b9abbc3] → Estimating optical flow vectors
+[2026-06-29T19:26:59.536Z] [job_2026_06_29_0b9abbc3] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:26:59.538Z] [job_2026_06_29_0b9abbc3] Temporal motion vectors: computed internally
+[2026-06-29T19:26:59.540Z] [job_2026_06_29_0b9abbc3] ✓ Estimating optical flow vectors
+[2026-06-29T19:26:59.541Z] [job_2026_06_29_0b9abbc3] → Constructing interpolation prompt
+[2026-06-29T19:26:59.544Z] [job_2026_06_29_0b9abbc3] Prompt length: 1473 chars
+[2026-06-29T19:26:59.545Z] [job_2026_06_29_0b9abbc3] Image type: auto
+[2026-06-29T19:26:59.545Z] [job_2026_06_29_0b9abbc3] ✓ Constructing interpolation prompt
+[2026-06-29T19:26:59.545Z] [job_2026_06_29_0b9abbc3] → Dispatching to inference engine
+[2026-06-29T19:26:59.545Z] [job_2026_06_29_0b9abbc3] Encoding frames as base64...
+[2026-06-29T19:26:59.547Z] [job_2026_06_29_0b9abbc3] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:26:59.549Z] [job_2026_06_29_0b9abbc3] ✓ Dispatching to inference engine
+[2026-06-29T19:26:59.549Z] [job_2026_06_29_0b9abbc3] → Generating midpoint frame
+[2026-06-29T19:26:59.550Z] [job_2026_06_29_0b9abbc3] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:26:59.575Z] [job_2026_06_29_0b9abbc3] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:26:59.575Z] [job_2026_06_29_0b9abbc3] Temporal motion vectors: computed internally
+[2026-06-29T19:26:59.576Z] [job_2026_06_29_0b9abbc3] ✓ Estimating optical flow vectors
+[2026-06-29T19:26:59.576Z] [job_2026_06_29_0b9abbc3] → Constructing interpolation prompt
+[2026-06-29T19:26:59.576Z] [job_2026_06_29_0b9abbc3] Prompt length: 1473 chars
+[2026-06-29T19:26:59.577Z] [job_2026_06_29_0b9abbc3] Image type: auto
+[2026-06-29T19:26:59.577Z] [job_2026_06_29_0b9abbc3] ✓ Constructing interpolation prompt
+[2026-06-29T19:26:59.578Z] [job_2026_06_29_0b9abbc3] → Dispatching to inference engine
+[2026-06-29T19:26:59.579Z] [job_2026_06_29_0b9abbc3] Encoding frames as base64...
+[2026-06-29T19:26:59.580Z] [job_2026_06_29_0b9abbc3] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:26:59.581Z] [job_2026_06_29_0b9abbc3] ✓ Dispatching to inference engine
+[2026-06-29T19:26:59.581Z] [job_2026_06_29_0b9abbc3] → Generating midpoint frame
+[2026-06-29T19:26:59.581Z] [job_2026_06_29_0b9abbc3] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:27:10.975Z] [job_2026_06_29_0b9abbc3] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 49.065975256s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"49s"}]}}
+[2026-06-29T19:27:11.531Z] [job_2026_06_29_0b9abbc3] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 48.613784861s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"48s"}]}}
+[2026-06-29T19:27:24.946Z] [job_2026_06_29_0b9abbc3] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 35.175108681s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"35s"}]}}
+[2026-06-29T19:27:25.642Z] [job_2026_06_29_0b9abbc3] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 34.44013745s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"34s"}]}}
+[2026-06-29T19:28:29.861Z] [job_2026_06_29_0b9abbc3] → Initializing job
+[2026-06-29T19:28:30.065Z] [job_2026_06_29_0b9abbc3] Job job_2026_06_29_0b9abbc3 initialized
+[2026-06-29T19:28:30.066Z] [job_2026_06_29_0b9abbc3] ✓ Initializing job
+[2026-06-29T19:28:30.067Z] [job_2026_06_29_0b9abbc3] → Validating uploaded frames
+[2026-06-29T19:28:30.220Z] [job_2026_06_29_0b9abbc3] Frame A and Frame B validated
+[2026-06-29T19:28:30.220Z] [job_2026_06_29_0b9abbc3] ✓ Validating uploaded frames
+[2026-06-29T19:28:30.221Z] [job_2026_06_29_0b9abbc3] → Preprocessing images
+[2026-06-29T19:28:30.221Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame A via sharp...
+[2026-06-29T19:28:30.338Z] [job_2026_06_29_0b9abbc3] Frame A: 1024×1024 PNG
+[2026-06-29T19:28:30.338Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame B via sharp...
+[2026-06-29T19:28:30.446Z] [job_2026_06_29_0b9abbc3] Frame B: 1024×1024 PNG
+[2026-06-29T19:28:30.447Z] [job_2026_06_29_0b9abbc3] ✓ Preprocessing images
+[2026-06-29T19:28:30.447Z] [job_2026_06_29_0b9abbc3] → Analyzing spatial consistency
+[2026-06-29T19:28:30.749Z] [job_2026_06_29_0b9abbc3] Spatial dimensions match: YES
+[2026-06-29T19:28:30.750Z] [job_2026_06_29_0b9abbc3] Geospatial alignment check: PASSED
+[2026-06-29T19:28:30.750Z] [job_2026_06_29_0b9abbc3] ✓ Analyzing spatial consistency
+[2026-06-29T19:28:30.751Z] [job_2026_06_29_0b9abbc3] → Performing temporal alignment
+[2026-06-29T19:28:31.003Z] [job_2026_06_29_0b9abbc3] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:28:31.006Z] [job_2026_06_29_0b9abbc3] Computed Tmid = 00:10 UTC
+[2026-06-29T19:28:31.011Z] [job_2026_06_29_0b9abbc3] ✓ Performing temporal alignment
+[2026-06-29T19:28:31.014Z] [job_2026_06_29_0b9abbc3] → Estimating optical flow vectors
+[2026-06-29T19:28:31.417Z] [job_2026_06_29_0b9abbc3] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:28:31.418Z] [job_2026_06_29_0b9abbc3] Temporal motion vectors: computed internally
+[2026-06-29T19:28:31.419Z] [job_2026_06_29_0b9abbc3] ✓ Estimating optical flow vectors
+[2026-06-29T19:28:31.420Z] [job_2026_06_29_0b9abbc3] → Constructing interpolation prompt
+[2026-06-29T19:28:31.421Z] [job_2026_06_29_0b9abbc3] Prompt length: 1473 chars
+[2026-06-29T19:28:31.422Z] [job_2026_06_29_0b9abbc3] Image type: auto
+[2026-06-29T19:28:31.422Z] [job_2026_06_29_0b9abbc3] ✓ Constructing interpolation prompt
+[2026-06-29T19:28:31.423Z] [job_2026_06_29_0b9abbc3] → Dispatching to inference engine
+[2026-06-29T19:28:31.425Z] [job_2026_06_29_0b9abbc3] Encoding frames as base64...
+[2026-06-29T19:28:31.426Z] [job_2026_06_29_0b9abbc3] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:28:31.427Z] [job_2026_06_29_0b9abbc3] ✓ Dispatching to inference engine
+[2026-06-29T19:28:31.429Z] [job_2026_06_29_0b9abbc3] → Generating midpoint frame
+[2026-06-29T19:28:31.430Z] [job_2026_06_29_0b9abbc3] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:28:43.083Z] [job_2026_06_29_0b9abbc3] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 17.037535362s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"17s"}]}}
+[2026-06-29T19:31:17.183Z] [job_2026_06_29_0b9abbc3] → Initializing job
+[2026-06-29T19:31:17.388Z] [job_2026_06_29_0b9abbc3] Job job_2026_06_29_0b9abbc3 initialized
+[2026-06-29T19:31:17.388Z] [job_2026_06_29_0b9abbc3] ✓ Initializing job
+[2026-06-29T19:31:17.389Z] [job_2026_06_29_0b9abbc3] → Validating uploaded frames
+[2026-06-29T19:31:17.540Z] [job_2026_06_29_0b9abbc3] Frame A and Frame B validated
+[2026-06-29T19:31:17.541Z] [job_2026_06_29_0b9abbc3] ✓ Validating uploaded frames
+[2026-06-29T19:31:17.541Z] [job_2026_06_29_0b9abbc3] → Preprocessing images
+[2026-06-29T19:31:17.541Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame A via sharp...
+[2026-06-29T19:31:17.612Z] [job_2026_06_29_0b9abbc3] Frame A: 1024×1024 PNG
+[2026-06-29T19:31:17.613Z] [job_2026_06_29_0b9abbc3] Preprocessing Frame B via sharp...
+[2026-06-29T19:31:17.675Z] [job_2026_06_29_0b9abbc3] Frame B: 1024×1024 PNG
+[2026-06-29T19:31:17.675Z] [job_2026_06_29_0b9abbc3] ✓ Preprocessing images
+[2026-06-29T19:31:17.675Z] [job_2026_06_29_0b9abbc3] → Analyzing spatial consistency
+[2026-06-29T19:31:17.977Z] [job_2026_06_29_0b9abbc3] Spatial dimensions match: YES
+[2026-06-29T19:31:17.978Z] [job_2026_06_29_0b9abbc3] Geospatial alignment check: PASSED
+[2026-06-29T19:31:17.978Z] [job_2026_06_29_0b9abbc3] ✓ Analyzing spatial consistency
+[2026-06-29T19:31:17.979Z] [job_2026_06_29_0b9abbc3] → Performing temporal alignment
+[2026-06-29T19:31:18.231Z] [job_2026_06_29_0b9abbc3] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:31:18.233Z] [job_2026_06_29_0b9abbc3] Computed Tmid = 00:10 UTC
+[2026-06-29T19:31:18.233Z] [job_2026_06_29_0b9abbc3] ✓ Performing temporal alignment
+[2026-06-29T19:31:18.234Z] [job_2026_06_29_0b9abbc3] → Estimating optical flow vectors
+[2026-06-29T19:31:18.636Z] [job_2026_06_29_0b9abbc3] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:31:18.637Z] [job_2026_06_29_0b9abbc3] Temporal motion vectors: computed internally
+[2026-06-29T19:31:18.638Z] [job_2026_06_29_0b9abbc3] ✓ Estimating optical flow vectors
+[2026-06-29T19:31:18.639Z] [job_2026_06_29_0b9abbc3] → Constructing interpolation prompt
+[2026-06-29T19:31:18.639Z] [job_2026_06_29_0b9abbc3] Prompt length: 1473 chars
+[2026-06-29T19:31:18.640Z] [job_2026_06_29_0b9abbc3] Image type: auto
+[2026-06-29T19:31:18.640Z] [job_2026_06_29_0b9abbc3] ✓ Constructing interpolation prompt
+[2026-06-29T19:31:18.641Z] [job_2026_06_29_0b9abbc3] → Dispatching to inference engine
+[2026-06-29T19:31:18.641Z] [job_2026_06_29_0b9abbc3] Encoding frames as base64...
+[2026-06-29T19:31:18.643Z] [job_2026_06_29_0b9abbc3] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:31:18.644Z] [job_2026_06_29_0b9abbc3] ✓ Dispatching to inference engine
+[2026-06-29T19:31:18.645Z] [job_2026_06_29_0b9abbc3] → Generating midpoint frame
+[2026-06-29T19:31:18.646Z] [job_2026_06_29_0b9abbc3] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:31:26.463Z] [job_2026_06_29_7a9c2579] Job created
+[2026-06-29T19:31:26.464Z] [job_2026_06_29_7a9c2579] Saving Frame A: frame_A_T0000.png (573827 bytes)
+[2026-06-29T19:31:26.466Z] [job_2026_06_29_7a9c2579] Saving Frame B: frame_B_T0020.png (572505 bytes)
+[2026-06-29T19:31:26.467Z] [job_2026_06_29_7a9c2579] Upload complete. Job ready for generation.
+[2026-06-29T19:31:26.749Z] [job_2026_06_29_7a9c2579] → Initializing job
+[2026-06-29T19:31:26.776Z] [job_2026_06_29_7a9c2579] → Initializing job
+[2026-06-29T19:31:26.955Z] [job_2026_06_29_7a9c2579] Job job_2026_06_29_7a9c2579 initialized
+[2026-06-29T19:31:26.956Z] [job_2026_06_29_7a9c2579] ✓ Initializing job
+[2026-06-29T19:31:26.956Z] [job_2026_06_29_7a9c2579] → Validating uploaded frames
+[2026-06-29T19:31:26.977Z] [job_2026_06_29_7a9c2579] Job job_2026_06_29_7a9c2579 initialized
+[2026-06-29T19:31:26.978Z] [job_2026_06_29_7a9c2579] ✓ Initializing job
+[2026-06-29T19:31:26.978Z] [job_2026_06_29_7a9c2579] → Validating uploaded frames
+[2026-06-29T19:31:27.107Z] [job_2026_06_29_7a9c2579] Frame A and Frame B validated
+[2026-06-29T19:31:27.107Z] [job_2026_06_29_7a9c2579] ✓ Validating uploaded frames
+[2026-06-29T19:31:27.107Z] [job_2026_06_29_7a9c2579] → Preprocessing images
+[2026-06-29T19:31:27.108Z] [job_2026_06_29_7a9c2579] Preprocessing Frame A via sharp...
+[2026-06-29T19:31:27.130Z] [job_2026_06_29_7a9c2579] Frame A and Frame B validated
+[2026-06-29T19:31:27.131Z] [job_2026_06_29_7a9c2579] ✓ Validating uploaded frames
+[2026-06-29T19:31:27.131Z] [job_2026_06_29_7a9c2579] → Preprocessing images
+[2026-06-29T19:31:27.132Z] [job_2026_06_29_7a9c2579] Preprocessing Frame A via sharp...
+[2026-06-29T19:31:27.176Z] [job_2026_06_29_7a9c2579] Frame A: 1024×1024 PNG
+[2026-06-29T19:31:27.177Z] [job_2026_06_29_7a9c2579] Preprocessing Frame B via sharp...
+[2026-06-29T19:31:27.202Z] [job_2026_06_29_7a9c2579] Frame A: 1024×1024 PNG
+[2026-06-29T19:31:27.202Z] [job_2026_06_29_7a9c2579] Preprocessing Frame B via sharp...
+[2026-06-29T19:31:27.243Z] [job_2026_06_29_7a9c2579] Frame B: 1024×1024 PNG
+[2026-06-29T19:31:27.244Z] [job_2026_06_29_7a9c2579] ✓ Preprocessing images
+[2026-06-29T19:31:27.244Z] [job_2026_06_29_7a9c2579] → Analyzing spatial consistency
+[2026-06-29T19:31:27.267Z] [job_2026_06_29_7a9c2579] Frame B: 1024×1024 PNG
+[2026-06-29T19:31:27.267Z] [job_2026_06_29_7a9c2579] ✓ Preprocessing images
+[2026-06-29T19:31:27.268Z] [job_2026_06_29_7a9c2579] → Analyzing spatial consistency
+[2026-06-29T19:31:27.546Z] [job_2026_06_29_7a9c2579] Spatial dimensions match: YES
+[2026-06-29T19:31:27.547Z] [job_2026_06_29_7a9c2579] Geospatial alignment check: PASSED
+[2026-06-29T19:31:27.547Z] [job_2026_06_29_7a9c2579] ✓ Analyzing spatial consistency
+[2026-06-29T19:31:27.547Z] [job_2026_06_29_7a9c2579] → Performing temporal alignment
+[2026-06-29T19:31:27.570Z] [job_2026_06_29_7a9c2579] Spatial dimensions match: YES
+[2026-06-29T19:31:27.570Z] [job_2026_06_29_7a9c2579] Geospatial alignment check: PASSED
+[2026-06-29T19:31:27.571Z] [job_2026_06_29_7a9c2579] ✓ Analyzing spatial consistency
+[2026-06-29T19:31:27.571Z] [job_2026_06_29_7a9c2579] → Performing temporal alignment
+[2026-06-29T19:31:27.798Z] [job_2026_06_29_7a9c2579] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:31:27.800Z] [job_2026_06_29_7a9c2579] Computed Tmid = 00:10 UTC
+[2026-06-29T19:31:27.800Z] [job_2026_06_29_7a9c2579] ✓ Performing temporal alignment
+[2026-06-29T19:31:27.801Z] [job_2026_06_29_7a9c2579] → Estimating optical flow vectors
+[2026-06-29T19:31:27.823Z] [job_2026_06_29_7a9c2579] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:31:27.823Z] [job_2026_06_29_7a9c2579] Computed Tmid = 00:10 UTC
+[2026-06-29T19:31:27.824Z] [job_2026_06_29_7a9c2579] ✓ Performing temporal alignment
+[2026-06-29T19:31:27.824Z] [job_2026_06_29_7a9c2579] → Estimating optical flow vectors
+[2026-06-29T19:31:28.202Z] [job_2026_06_29_7a9c2579] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:31:28.204Z] [job_2026_06_29_7a9c2579] Temporal motion vectors: computed internally
+[2026-06-29T19:31:28.205Z] [job_2026_06_29_7a9c2579] ✓ Estimating optical flow vectors
+[2026-06-29T19:31:28.206Z] [job_2026_06_29_7a9c2579] → Constructing interpolation prompt
+[2026-06-29T19:31:28.206Z] [job_2026_06_29_7a9c2579] Prompt length: 1473 chars
+[2026-06-29T19:31:28.207Z] [job_2026_06_29_7a9c2579] Image type: auto
+[2026-06-29T19:31:28.207Z] [job_2026_06_29_7a9c2579] ✓ Constructing interpolation prompt
+[2026-06-29T19:31:28.208Z] [job_2026_06_29_7a9c2579] → Dispatching to inference engine
+[2026-06-29T19:31:28.208Z] [job_2026_06_29_7a9c2579] Encoding frames as base64...
+[2026-06-29T19:31:28.210Z] [job_2026_06_29_7a9c2579] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:31:28.211Z] [job_2026_06_29_7a9c2579] ✓ Dispatching to inference engine
+[2026-06-29T19:31:28.212Z] [job_2026_06_29_7a9c2579] → Generating midpoint frame
+[2026-06-29T19:31:28.212Z] [job_2026_06_29_7a9c2579] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:31:28.230Z] [job_2026_06_29_7a9c2579] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:31:28.231Z] [job_2026_06_29_7a9c2579] Temporal motion vectors: computed internally
+[2026-06-29T19:31:28.232Z] [job_2026_06_29_7a9c2579] ✓ Estimating optical flow vectors
+[2026-06-29T19:31:28.232Z] [job_2026_06_29_7a9c2579] → Constructing interpolation prompt
+[2026-06-29T19:31:28.232Z] [job_2026_06_29_7a9c2579] Prompt length: 1473 chars
+[2026-06-29T19:31:28.233Z] [job_2026_06_29_7a9c2579] Image type: auto
+[2026-06-29T19:31:28.234Z] [job_2026_06_29_7a9c2579] ✓ Constructing interpolation prompt
+[2026-06-29T19:31:28.234Z] [job_2026_06_29_7a9c2579] → Dispatching to inference engine
+[2026-06-29T19:31:28.235Z] [job_2026_06_29_7a9c2579] Encoding frames as base64...
+[2026-06-29T19:31:28.235Z] [job_2026_06_29_7a9c2579] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:31:28.236Z] [job_2026_06_29_7a9c2579] ✓ Dispatching to inference engine
+[2026-06-29T19:31:28.236Z] [job_2026_06_29_7a9c2579] → Generating midpoint frame
+[2026-06-29T19:31:28.237Z] [job_2026_06_29_7a9c2579] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:31:31.028Z] [job_2026_06_29_0b9abbc3] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 28.997728159s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"28s"}]}}
+[2026-06-29T19:31:31.029Z] [job_2026_06_29_0b9abbc3] ERROR: Invalid state: Controller is already closed
+[2026-06-29T19:31:39.830Z] [job_2026_06_29_7a9c2579] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 20.197321898s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"20s"}]}}
+[2026-06-29T19:31:39.923Z] [job_2026_06_29_7a9c2579] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 20.11480683s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"20s"}]}}
+[2026-06-29T19:31:53.454Z] [job_2026_06_29_7a9c2579] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 6.573467111s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"6s"}]}}
+[2026-06-29T19:31:53.590Z] [job_2026_06_29_7a9c2579] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 6.434689773s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"6s"}]}}
+[2026-06-29T19:33:06.209Z] [job_2026_06_29_ade1007a] Job created
+[2026-06-29T19:33:06.210Z] [job_2026_06_29_ade1007a] Saving Frame A: frame_A_T0000.png (573827 bytes)
+[2026-06-29T19:33:06.214Z] [job_2026_06_29_ade1007a] Saving Frame B: frame_B_T0020.png (572505 bytes)
+[2026-06-29T19:33:06.217Z] [job_2026_06_29_ade1007a] Upload complete. Job ready for generation.
+[2026-06-29T19:33:06.659Z] [job_2026_06_29_ade1007a] → Initializing job
+[2026-06-29T19:33:06.676Z] [job_2026_06_29_ade1007a] → Initializing job
+[2026-06-29T19:33:06.862Z] [job_2026_06_29_ade1007a] Job job_2026_06_29_ade1007a initialized
+[2026-06-29T19:33:06.863Z] [job_2026_06_29_ade1007a] ✓ Initializing job
+[2026-06-29T19:33:06.864Z] [job_2026_06_29_ade1007a] → Validating uploaded frames
+[2026-06-29T19:33:06.878Z] [job_2026_06_29_ade1007a] Job job_2026_06_29_ade1007a initialized
+[2026-06-29T19:33:06.880Z] [job_2026_06_29_ade1007a] ✓ Initializing job
+[2026-06-29T19:33:06.882Z] [job_2026_06_29_ade1007a] → Validating uploaded frames
+[2026-06-29T19:33:07.015Z] [job_2026_06_29_ade1007a] Frame A and Frame B validated
+[2026-06-29T19:33:07.016Z] [job_2026_06_29_ade1007a] ✓ Validating uploaded frames
+[2026-06-29T19:33:07.017Z] [job_2026_06_29_ade1007a] → Preprocessing images
+[2026-06-29T19:33:07.017Z] [job_2026_06_29_ade1007a] Preprocessing Frame A via sharp...
+[2026-06-29T19:33:07.033Z] [job_2026_06_29_ade1007a] Frame A and Frame B validated
+[2026-06-29T19:33:07.034Z] [job_2026_06_29_ade1007a] ✓ Validating uploaded frames
+[2026-06-29T19:33:07.034Z] [job_2026_06_29_ade1007a] → Preprocessing images
+[2026-06-29T19:33:07.034Z] [job_2026_06_29_ade1007a] Preprocessing Frame A via sharp...
+[2026-06-29T19:33:07.097Z] [job_2026_06_29_ade1007a] Frame A: 1024×1024 PNG
+[2026-06-29T19:33:07.098Z] [job_2026_06_29_ade1007a] Preprocessing Frame B via sharp...
+[2026-06-29T19:33:07.103Z] [job_2026_06_29_ade1007a] Frame A: 1024×1024 PNG
+[2026-06-29T19:33:07.104Z] [job_2026_06_29_ade1007a] Preprocessing Frame B via sharp...
+[2026-06-29T19:33:07.170Z] [job_2026_06_29_ade1007a] Frame B: 1024×1024 PNG
+[2026-06-29T19:33:07.171Z] [job_2026_06_29_ade1007a] ✓ Preprocessing images
+[2026-06-29T19:33:07.171Z] [job_2026_06_29_ade1007a] → Analyzing spatial consistency
+[2026-06-29T19:33:07.178Z] [job_2026_06_29_ade1007a] Frame B: 1024×1024 PNG
+[2026-06-29T19:33:07.179Z] [job_2026_06_29_ade1007a] ✓ Preprocessing images
+[2026-06-29T19:33:07.181Z] [job_2026_06_29_ade1007a] → Analyzing spatial consistency
+[2026-06-29T19:33:07.474Z] [job_2026_06_29_ade1007a] Spatial dimensions match: YES
+[2026-06-29T19:33:07.475Z] [job_2026_06_29_ade1007a] Geospatial alignment check: PASSED
+[2026-06-29T19:33:07.475Z] [job_2026_06_29_ade1007a] ✓ Analyzing spatial consistency
+[2026-06-29T19:33:07.475Z] [job_2026_06_29_ade1007a] → Performing temporal alignment
+[2026-06-29T19:33:07.483Z] [job_2026_06_29_ade1007a] Spatial dimensions match: YES
+[2026-06-29T19:33:07.484Z] [job_2026_06_29_ade1007a] Geospatial alignment check: PASSED
+[2026-06-29T19:33:07.484Z] [job_2026_06_29_ade1007a] ✓ Analyzing spatial consistency
+[2026-06-29T19:33:07.484Z] [job_2026_06_29_ade1007a] → Performing temporal alignment
+[2026-06-29T19:33:07.727Z] [job_2026_06_29_ade1007a] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:33:07.729Z] [job_2026_06_29_ade1007a] Computed Tmid = 00:10 UTC
+[2026-06-29T19:33:07.730Z] [job_2026_06_29_ade1007a] ✓ Performing temporal alignment
+[2026-06-29T19:33:07.731Z] [job_2026_06_29_ade1007a] → Estimating optical flow vectors
+[2026-06-29T19:33:07.736Z] [job_2026_06_29_ade1007a] T0 = 00:00 UTC, T1 = 00:20 UTC
+[2026-06-29T19:33:07.737Z] [job_2026_06_29_ade1007a] Computed Tmid = 00:10 UTC
+[2026-06-29T19:33:07.738Z] [job_2026_06_29_ade1007a] ✓ Performing temporal alignment
+[2026-06-29T19:33:07.739Z] [job_2026_06_29_ade1007a] → Estimating optical flow vectors
+[2026-06-29T19:33:08.133Z] [job_2026_06_29_ade1007a] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:33:08.135Z] [job_2026_06_29_ade1007a] Temporal motion vectors: computed internally
+[2026-06-29T19:33:08.136Z] [job_2026_06_29_ade1007a] ✓ Estimating optical flow vectors
+[2026-06-29T19:33:08.137Z] [job_2026_06_29_ade1007a] → Constructing interpolation prompt
+[2026-06-29T19:33:08.138Z] [job_2026_06_29_ade1007a] Prompt length: 1473 chars
+[2026-06-29T19:33:08.138Z] [job_2026_06_29_ade1007a] Image type: auto
+[2026-06-29T19:33:08.139Z] [job_2026_06_29_ade1007a] ✓ Constructing interpolation prompt
+[2026-06-29T19:33:08.139Z] [job_2026_06_29_ade1007a] → Dispatching to inference engine
+[2026-06-29T19:33:08.140Z] [job_2026_06_29_ade1007a] Encoding frames as base64...
+[2026-06-29T19:33:08.143Z] [job_2026_06_29_ade1007a] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:33:08.144Z] [job_2026_06_29_ade1007a] ✓ Dispatching to inference engine
+[2026-06-29T19:33:08.144Z] [job_2026_06_29_ade1007a] → Generating midpoint frame
+[2026-06-29T19:33:08.145Z] [job_2026_06_29_ade1007a] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:33:08.167Z] [job_2026_06_29_ade1007a] Optical flow estimation → delegated to multimodal inference engine
+[2026-06-29T19:33:08.168Z] [job_2026_06_29_ade1007a] Temporal motion vectors: computed internally
+[2026-06-29T19:33:08.168Z] [job_2026_06_29_ade1007a] ✓ Estimating optical flow vectors
+[2026-06-29T19:33:08.168Z] [job_2026_06_29_ade1007a] → Constructing interpolation prompt
+[2026-06-29T19:33:08.169Z] [job_2026_06_29_ade1007a] Prompt length: 1473 chars
+[2026-06-29T19:33:08.169Z] [job_2026_06_29_ade1007a] Image type: auto
+[2026-06-29T19:33:08.169Z] [job_2026_06_29_ade1007a] ✓ Constructing interpolation prompt
+[2026-06-29T19:33:08.169Z] [job_2026_06_29_ade1007a] → Dispatching to inference engine
+[2026-06-29T19:33:08.169Z] [job_2026_06_29_ade1007a] Encoding frames as base64...
+[2026-06-29T19:33:08.170Z] [job_2026_06_29_ade1007a] Dispatching to gemini-3.1-flash-image (Interactions API) → fallback: gemini-2.5-flash-image...
+[2026-06-29T19:33:08.171Z] [job_2026_06_29_ade1007a] ✓ Dispatching to inference engine
+[2026-06-29T19:33:08.171Z] [job_2026_06_29_ade1007a] → Generating midpoint frame
+[2026-06-29T19:33:08.171Z] [job_2026_06_29_ade1007a] ⚡ Gemini Nano Banana generating midpoint frame...
+[2026-06-29T19:33:19.677Z] [job_2026_06_29_ade1007a] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 40.353553268s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"40s"}]}}
+[2026-06-29T19:33:20.136Z] [job_2026_06_29_ade1007a] Retry 1/2: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 39.891512124s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"39s"}]}}
+[2026-06-29T19:33:33.895Z] [job_2026_06_29_ade1007a] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 26.131246974s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash-preview-image","location":"global"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"26s"}]}}
+[2026-06-29T19:33:34.000Z] [job_2026_06_29_ade1007a] ERROR: {"error":{"code":429,"message":"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.5-flash-preview-image\nPlease retry in 26.030688193s.","status":"RESOURCE_EXHAUSTED","details":[{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count","quotaId":"GenerateContentInputTokensPerModelPerMinute-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerMinutePerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}},{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash-preview-image"}}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"26s"}]}}
