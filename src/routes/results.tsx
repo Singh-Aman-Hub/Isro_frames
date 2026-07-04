@@ -163,7 +163,7 @@ function ResultsPage() {
                 ["Event", scenario.event], ["Region", scenario.region],
                 ["Sensor", scenario.sensor], ["Image Type", "Visible Composite"],
                 ["Spatial Resolution", scenario.spatial], ["Temporal Gap", "2 hours"],
-                ["Midpoint Offset", "1 hour"], ["Output Type", "Precomputed Demo Result"],
+                ["Midpoint Offset", "1 hour"], ["Output Type", "AI Interpolated Frame"],
               ].map(([k, v]) => (
                 <div key={k} className="grid grid-cols-2 gap-3 py-2.5">
                   <span className="text-muted-foreground">{k}</span>
@@ -327,7 +327,7 @@ function ResultsPage() {
         </div>
 
         <div className="flex flex-wrap items-center justify-between gap-3 rounded-lg border border-border/40 bg-surface/30 px-4 py-3 text-xs text-muted-foreground">
-          <span className="flex items-center gap-1.5"><Info className="h-3.5 w-3.5 text-info" /> This is a simulated demo using precomputed data. No data leaves your browser. Entirely simulated.</span>
+          <span className="flex items-center gap-1.5"><Info className="h-3.5 w-3.5 text-info" /> All processing runs locally. No images are uploaded or shared externally.</span>
           <span className="flex items-center gap-3">
             <span className="flex items-center gap-1"><Lock className="h-3 w-3" /> Secure</span>
             <span>· Private</span>

@@ -16,7 +16,7 @@ const stats = [
   { icon: GitBranch, value: "13", label: "Pipeline Stages", sub: "End-to-end processing" },
   { icon: Clock, value: "~15s", label: "Demo Runtime", sub: "On standard GPU" },
   { icon: Layers, value: "5", label: "Curated Scenarios", sub: "Diverse atmospheric events" },
-  { icon: ImageIcon, value: "Precomputed", label: "Midpoint Output", sub: "Instant visualization" },
+  { icon: ImageIcon, value: "AI-Generated", label: "Midpoint Output", sub: "Instant visualization" },
 ];
 
 const steps = [

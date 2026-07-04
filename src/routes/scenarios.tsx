@@ -190,9 +190,9 @@ function ScenariosPage() {
                         </div>
                       ))}
                       <div className="grid grid-cols-[auto_1fr_auto] items-center gap-3 px-3 py-2.5">
-                        <Lock className="h-4 w-4 text-muted-foreground" />
-                        <span className="text-muted-foreground">Demo Mode</span>
-                        <span className="rounded bg-brand/15 px-2 py-0.5 text-xs font-semibold text-brand">Precomputed Midpoint</span>
+                        <Cog className="h-4 w-4 text-muted-foreground" />
+                        <span className="text-muted-foreground">Output</span>
+                        <span className="rounded bg-brand/15 px-2 py-0.5 text-xs font-semibold text-brand">AI Interpolated</span>
                       </div>
                     </div>
 
@@ -204,9 +204,7 @@ function ScenariosPage() {
                     >
                       Run Interpolation Pipeline <ArrowRight className="h-4 w-4" />
                     </button>
-                    <p className="mt-3 flex items-center justify-center gap-1.5 text-[11px] text-muted-foreground">
-                      <Lock className="h-3 w-3" /> No data leaves your browser. Entirely simulated.
-                    </p>
+
                   </motion.div>
                 </AnimatePresence>
               </div>
